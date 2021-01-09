@@ -1,0 +1,58 @@
+
+    @font-face
+    {
+        font-family: 'Roboto Mono', monospace;
+        src:url(C:\Users\Expert\Desktop\HTML\static\RobotoMono-Italic.ttf);
+    }
+    body
+    {
+        
+        font-family: 'Roboto Mono', monospace;
+        font-style: italic;
+
+
+    }
+    h1{
+        background-color: grey;
+        color: aqua;
+        text-align: center;
+        
+        margin-bottom: 10%;
+        margin: 100px;
+        width: 900px;
+        height: 200px;
+        padding: 20px;
+       
+        position: absolute;
+       
+
+    }
+    div
+    {
+        background-color: crimson;
+        height: 400px;
+        width: 1200px;
+        
+        margin-left: 10%;
+        margin-top: 10%;
+        position: relative;
+        font-size: 30px;
+        color: bisque;
+        
+
+    }
+    h2{
+        text-align: center;
+        
+    }
+    body
+    {
+        background-color: chartreuse;
+
+    }
+    #date
+    {
+        text-shadow:  2px 4px 10px yellow;
+
+    }
+    
